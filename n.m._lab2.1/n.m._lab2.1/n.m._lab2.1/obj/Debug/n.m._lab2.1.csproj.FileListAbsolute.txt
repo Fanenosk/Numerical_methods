@@ -1,0 +1,7 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\bin\Debug\n.m._lab2.1.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\bin\Debug\n.m._lab2.1.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\bin\Debug\n.m._lab2.1.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\obj\Debug\n.m._lab2.1.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\obj\Debug\n.m._lab2.1.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\obj\Debug\n.m._lab2.1.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2.1\n.m._lab2.1\n.m._lab2.1\obj\Debug\n.m._lab2.1.pdb

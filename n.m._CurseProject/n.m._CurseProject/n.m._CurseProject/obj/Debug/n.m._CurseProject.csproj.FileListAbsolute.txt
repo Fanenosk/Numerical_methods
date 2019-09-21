@@ -1,0 +1,7 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\bin\Debug\n.m._CurseProject.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\bin\Debug\n.m._CurseProject.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\bin\Debug\n.m._CurseProject.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\obj\Debug\n.m._CurseProject.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\obj\Debug\n.m._CurseProject.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\obj\Debug\n.m._CurseProject.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._CurseProject\n.m._CurseProject\n.m._CurseProject\obj\Debug\n.m._CurseProject.pdb

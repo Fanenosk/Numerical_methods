@@ -1,0 +1,14 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\obj\Debug\n.m._lab2.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\obj\Debug\n.m._lab2.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\bin\Debug\n.m._lab2.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\bin\Debug\n.m._lab2.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\bin\Debug\n.m._lab2.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\obj\Debug\n.m._lab2.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab2\n.m._lab2\obj\Debug\n.m._lab2.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\bin\Debug\n.m._lab2.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\bin\Debug\n.m._lab2.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\bin\Debug\n.m._lab2.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\obj\Debug\n.m._lab2.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\obj\Debug\n.m._lab2.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\obj\Debug\n.m._lab2.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.2\n.m._lab2\obj\Debug\n.m._lab2.pdb

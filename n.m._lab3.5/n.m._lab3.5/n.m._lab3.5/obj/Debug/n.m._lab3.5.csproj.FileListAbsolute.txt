@@ -1,0 +1,7 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\obj\Debug\n.m._lab3.5.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\obj\Debug\n.m._lab3.5.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\bin\Debug\n.m._lab3.5.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\bin\Debug\n.m._lab3.5.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\bin\Debug\n.m._lab3.5.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\obj\Debug\n.m._lab3.5.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab3.5\n.m._lab3.5\n.m._lab3.5\obj\Debug\n.m._lab3.5.pdb

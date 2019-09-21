@@ -1,0 +1,14 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\bin\Debug\n.m._lab4.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\6 семестр\n.m._lab1.4\n.m._lab4\n.m._lab4\obj\Debug\n.m._lab4.pdb
